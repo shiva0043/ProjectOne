@@ -1,3 +1,3 @@
-a="Project updated accross merge conflict"
-b="One"
-print(a+b)
+a=3
+b=" One"
+print(b*3)
