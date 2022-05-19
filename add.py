@@ -1,3 +1,3 @@
 a=3
-b=" One"
+b=10
 print(b*3)
