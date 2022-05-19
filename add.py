@@ -1,3 +1,3 @@
-a=3
-b=" One"
-print(b*3)
+a="hello"
+b="world!"
+print(a+b)
